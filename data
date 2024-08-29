@@ -1,0 +1,275 @@
+[
+    {
+        "id":1,
+        "title": "MackBook",
+        "description": "Безумно тонкий и быстрый. Работайте, играйте и творите где хотите.",
+        "price": 399.99,
+        "currency": "USD",
+        "image": "https://ibb.co/B2QZpmk",
+        "rating": 2.5
+    },
+    {
+        "id":2,
+        "title": "MackBook Air",
+        "description": "Самые передовые ноутбуки Mac для требовательных рабочих процессов.",
+        "price": 299.99,
+        "currency": "USD",
+        "image": "https://ibb.co/qrS6TCT",
+        "rating": 3.5
+    },
+    {
+        "id":3,
+        "title": "Xiaomi Redmi Note 13 ",
+        "description": "Redmi Note 13 Pro+ 5G Материал корпуса: Алюминий , Пластик , Стекло Цвет: Midnight Black / Черный Дисплей Диагональ экрана: 6.67",
+        "price": 59.99,
+        "currency": "USD",
+        "image": "https://ibb.co/KqhyJPn",
+        "rating": 4
+    },
+    {
+        "id":4,
+        "title": "Redmi Note 13 8/256GB Mint Green",
+        "description": "Redmi Note 13 — смартфон, который перевернёт ваше представление о мобильных устройствах среднего сегмента. Он создан для тех, кто стремится к совершенству и не готов на",
+        "price": 39.99,
+        "currency": "USD",
+        "image": "https://ibb.co/RN8knXX",
+        "rating": 5
+    },
+    {
+        "id":5,
+        "title": "Ноутбук Xiaomi RedmiBook 15",
+        "description": "Ноутбук Xiaomi RedmiBook Pro 14' (AMD R5-5500U, 16Gb, 512Gb, Radeon Graphics) JYU4399CN Серый - легкий, тонкий и прочный ноутбук повышенной производительности. ",
+        "price": 229.99,
+        "currency": "USD",
+        "image": "https://ibb.co/Tmqx8tK",
+        "rating": 4
+    },
+    {
+        "id":6,
+        "title": "Xiaomi Redmibook, 16",
+        "description": "Ноутбук Xiaomi Redmibook, 16 IPS, Intel Core i5 13500H, LPDDR5 16ГБ, SSD 1024ГБ, Intel Iris Xe graphics, серый (jyu4578cn)",
+        "price": 329.99,
+        "currency": "USD",
+        "image": "https://ibb.co/SsQprfm",
+        "rating": 4.5
+    },
+    {
+        "id":7,
+        "title": "Redmi Buds 4 Active",
+        "description": "Redmi Buds 4 Active – надежный и стильный аксессуар, который призван обогатить вашу музыкальную и коммуникационную жизнь. Наушники Сяоми Redmi Buds 4 Active объединяют в себе высокую производительность, удобство и до",
+        "price": 19.99,
+        "currency": "USD",
+        "image": "https://ibb.co/vLy8YGW",
+        "rating": 5
+    },
+    {
+        "id":8,
+        "title": "Samsung с кабелем USB Type-C ",
+        "description": "Зарядное устройство Super Fast Charging 45W с кабелем в комплекте( USB Type-C - USB Type-C) предназначено для быстрой зарядки ваших устройств. Адаптер питания осна",
+        "price": 10.99,
+        "currency": "USD",
+        "image": "https://ibb.co/R9BB1Nq",
+        "rating": 1.5
+    },
+    {
+        "id":9,
+        "title": "Xiaomi Redmi Display G24",
+        "description": "Игровой монитор Xiaomi Redmi Display 23,8 G24 165 Hz (A24FAA-RG) с частотой обновления 165 Гц, разрешением 1920×1080 и откликом 1 мс станет отличным дополнением к",
+        "price": 100.99,
+        "currency": "USD",
+        "image": "https://ibb.co/5GxZWnL",
+        "rating": 2
+    },
+    {
+        "id":10,
+        "title": "Геймпад XSeries",
+        "description": "Геймпад XSeries: беспроводной контроллер для ПК Беспроводной геймпад XSeries предназначен для использования с ПК и подключается к компьютеру при помощи адап",
+        "price": 59.99,
+        "currency": "USD",
+        "image": "https://ibb.co/Vxhb6M3",
+        "rating": 4
+    },
+    {
+        "id":11,
+        "title": "Мягкая игрушка Гигантский гусь",
+        "description": "Гигантский гусь Толстяк - яркая и веселая мягкая игрушка. Подушка-обнимашка поднимет Вам настроение с самого утра. Плюшевый гусь не оставит равнодушным никого, он",
+        "price": 29.99,
+        "currency": "USD",
+        "image": "https://ibb.co/kqjNqxM",
+        "rating": 5
+    },
+    {
+        "id":12,
+        "title": "JBL C100SI RU",
+        "description": "Высококачественная гарнитура JBL C100SI с наушниками внутриканального типа станет незаменимым спутник для всех тех, кто привык к активному образу жизни в ритме",
+        "price": 39.99,
+        "currency": "USD",
+        "image": "https://ibb.co/YW6jVh3",
+        "rating": 3.5
+    },
+    {
+        "id":13,
+        "title": "Fujifilm Instax Mini 12 Blossom Pink",
+        "description": "Instax MINI 12 – очередное обновление самой популярной моментальной камеры. Изменения коснулись внешнего внешний вида: камера стала более прямоугольной",
+        "price": 79.99,
+        "currency": "USD",
+        "image": "https://ibb.co/sJ5DQ9X",
+        "rating": 4.5
+    },
+    {
+        "id":14,
+        "title": "Вентилятор Rix Rsf-3000b",
+        "description": " пока собирали, обнаружили отстутсвие трубки, ругались на поставщика, открутили трубку от старого вентилятора, благо подошла, на финальном этапе сборки",
+        "price": 19.99,
+        "currency": "USD",
+        "image": "https://ibb.co/nrr2Rhy",
+        "rating": 5
+    },
+    {
+        "id":15,
+        "title": "Кресло GAMELAB TETRA",
+        "description": "Компьютерное игровое кресло GAMELAB TETRA - это стильный и функциональный выбор для геймеров. Кресло GAMELAB TETRA отличается своим геймерским",
+        "price": 100.99,
+        "currency": "USD",
+        "image": "https://ibb.co/T2v9pzB",
+        "rating": 5
+    },
+    {
+        "id":16,
+        "title": "Фотоаппарат canon eos 600d",
+        "description": "тип камеры: зеркальная тип матрицы: CMOS размер матрицы: 18.7 МП, 22.3 х 14.9 мм чувствительность: 100 - 3200 ISO, Auto ISO байонет: Canon EF/EF-S объектив в комплекте: 18-135 IS Читать далее Коротко о товаре",
+        "price": 150.99,
+        "currency": "USD",
+        "image": "https://ibb.co/fDk4yyK",
+        "rating": 4.5
+    },
+    {
+        "id":17,
+        "title": "Игровой компьютерный стол FLY",
+        "description": "Игровой компьютерный стол Xplace - это высокоустойчивый, практичный и очень комфортный игровой стол с самыми высокими игровыми характеристиками. ",
+        "price": 350.99,
+        "currency": "USD",
+        "image": "https://ibb.co/6PvDMHK",
+        "rating": 3
+    },
+    {
+        "id":18,
+        "title": "Наушники Sennheiser HD 206",
+        "description": "Мощный звук, богатые низкие частоты и отличная система шумоподавления — все, что нужно для наслаждения любимой музыкой или прослушивания аудиокниг.",
+        "price": 120.99,
+        "currency": "USD",
+        "image": "https://ibb.co/yQ8LKLT",
+        "rating": 4.5
+    },
+    {
+        "id":19,
+        "title": "Фитнес-браслет BAND 8",
+        "description": "Huawei Band 8 оснащен безрамочным AMOLED-экраном с прямоугольным дизайном, который придает элегантности воздушно-легкому браслету.",
+        "price": 50.99,
+        "currency": "USD",
+        "image": "https://ibb.co/sQzbVkh",
+        "rating": 4
+    },
+    {
+        "id":20,
+        "title": "Wi-Fi роутер Xiaomi Mi Wi-Fi",
+        "description": "Wi-Fi-роутер Xiaomi Mi WI-Fi Router 4A с повышенным коэффициентом усиления сигнала выполнен в современном дизайне. Устройством можно управлять с помощью смартфона",
+        "price": 30.99,
+        "currency": "USD",
+        "image": "https://ibb.co/ZGzQPDz",
+        "rating": 3.5
+    },
+    {
+        "id":21,
+        "title": " XSeries",
+        "description": "Геймпад XSerriesК и подключается к компьютеру при помощи адап",
+        "price": 29.99,
+        "currency": "USD",
+        "image": "https://ibb.co/FhCb5Rs",
+        "rating": 1
+    },
+    {
+        "id":22,
+        "title": "игрушка гусь",
+        "description": "Гигантский гусь Толстяк - яр-обнимашка по утра. Плюшевый гусь не оставит равнодушным никого, он",
+        "price": 49.99,
+        "currency": "USD",
+        "image": "https://ibb.co/7Sy5ft4",
+        "rating": 5
+    },
+    {
+        "id":23,
+        "title": "JBL RU",
+        "description": "незаменимым спутник для всех тех, кто привык к активному образу жизни в ритме",
+        "price": 99.99,
+        "currency": "USD",
+        "image": "https://ibb.co/4FXRCsq",
+        "rating": 3.5
+    },
+    {
+        "id":24,
+        "title": "Mini 12 Blossom Pink",
+        "description": "Изменения коснулись внешнего внешний вида: камера стала более прямоугольной",
+        "price": 88.99,
+        "currency": "USD",
+        "image": "https://ibb.co/sJ5DQ9X",
+        "rating": 4.5
+    },
+    {
+        "id":25,
+        "title": "Вентилятор Rsf-3000b",
+        "description": "открутили трубку от старого вентилятора, благо подошла, на финальном этапе сборки",
+        "price": 59.99,
+        "currency": "USD",
+        "image": "https://ibb.co/nrr2Rhy",
+        "rating": 2.5
+    },
+    {
+        "id":26,
+        "title": "Кресло TETRA",
+        "description": "Компьютерно функциональный выбор для геймеров. Кресло GAMELAB TETRA отличается своим геймерским",
+        "price": 99.99,
+        "currency": "USD",
+        "image": "https://ibb.co/T2v9pzB",
+        "rating": 2.5
+    },
+    {
+        "id":27,
+        "title": "Фотоаппарат 600d",
+        "description": "тип камеры: зеркальная тип матрицы: CMOS размер матрицы: 18.7 МП, 22.3 х 14.9 мм чувствительность: 100 - 3200 ISO, Auto ISO байонет: Canon EF/EF-S объектив в комплекте: 18-135 IS Читать далее Коротко о товаре",
+        "price": 100.99,
+        "currency": "USD",
+        "image": "https://ibb.co/fDk4yyK",
+        "rating": 4
+    },
+    {
+        "id":28,
+        "title": "Игровой компьютерный стол",
+        "description": "Игровой компьютерный стол Xplace - это высокоустойчивый, практичный и очень комфортный игровой стол с самыми высокими игровыми характеристиками. ",
+        "price": 240.99,
+        "currency": "USD",
+        "image": "https://ibb.co/6PvDMHK",
+        "rating": 3
+    },
+    {
+        "id":29,
+        "title": "Наушники HD 206",
+        "description": "Мощный звук, богатые низкие частоты и отличная система шумоподавления — все, что нужно для наслаждения любимой музыкой или прослушивания аудиокниг.",
+        "price": 40.99,
+        "currency": "USD",
+        "image": "https://ibb.co/yQ8LKLT",
+        "rating": 1.5
+    },
+    {
+        "id":30,
+        "title": "Фитнес-браслет",
+        "description": "Huawei Band придает элегантности воздушно-легкому браслету.",
+        "price": 88.99,
+        "currency": "USD",
+        "image": "https://ibb.co/sQzbVkh",
+        "rating": 4.5
+    }
+
+]
+
+
