@@ -268,7 +268,106 @@
         "currency": "USD",
         "image": "https://i.ibb.co/dcSKHDr/450x600-6.webp",
         "rating": 4.5
-    }
+    },
+ {
+        "id":31,
+        "title": "Active",
+        "description": "Redmi Buds 4 Active – надежный и стильный аксессуар, который призван обогатить вашу музыкальную и коммуникационную жизнь. Наушники Сяоми Redmi Buds 4 Active объединяют в себе высокую производительность, удобство и до",
+        "price": 19.99,
+        "currency": "USD",
+        "image": "https://i.ibb.co/8PvVcpw/450x600.webp",
+        "rating": 5
+    },
+    {
+        "id":32,
+        "title": "Samsung с кабелем",
+        "description": "Зарядное устройство Super Fast Charging 45W с кабелем в комплекте( USB Type-C - USB Type-C) предназначено для быстрой зарядки ваших устройств. Адаптер питания осна",
+        "price": 10.99,
+        "currency": "USD",
+        "image": "https://i.ibb.co/jgZPMDV/450x600-2.webp",
+        "rating": 1.5
+    },
+    {
+        "id":33,
+        "title": "XiaomiG24",
+        "description": "Игровой монитор Xiaomi Redmi Display 23,8 G24 165 Hz (A24FAA-RG) с частотой обновления 165 Гц, разрешением 1920×1080 и откликом 1 мс станет отличным дополнением к",
+        "price": 100.99,
+        "currency": "USD",
+        "image": "https://i.ibb.co/8PvVcpw/450x600.webp",
+        "rating": 2
+    },
+    {
+        "id":34,
+        "title": "Геймпад",
+        "description": "Геймпад XSeries: беспроводной контроллер для ПК Беспроводной геймпад XSeries предназначен для использования с ПК и подключается к компьютеру при помощи адап",
+        "price": 59.99,
+        "currency": "USD",
+        "image": "https://i.ibb.co/8bRGkPX/450x600-3.webp",
+        "rating": 4
+    },
+    {
+        "id":35,
+        "title": "игрушка гусь",
+        "description": "Гигантский гусь Толстяк - яркая и веселая мягкая игрушка. Подушка-обнимашка поднимет Вам настроение с самого утра. Плюшевый гусь не оставит равнодушным никого, он",
+        "price": 29.99,
+        "currency": "USD",
+        "image": "https://i.ibb.co/QYLyYfX/450x600-5.webp",
+        "rating": 5
+    },
+    {
+        "id":36,
+        "title": "RU",
+        "description": "Высококачественная гарнитура JBL C100SI с наушниками внутриканального типа станет незаменимым спутник для всех тех, кто привык к активному образу жизни в ритме",
+        "price": 39.99,
+        "currency": "USD",
+        "image": "https://i.ibb.co/dcSKHDr/450x600-6.webp",
+        "rating": 3.5
+    },
+    {
+        "id":37,
+        "title": "Mini 12 Blossom",
+        "description": "Instax MINI 12 – очередное обновление самой популярной моментальной камеры. Изменения коснулись внешнего внешний вида: камера стала более прямоугольной",
+        "price": 79.99,
+        "currency": "USD",
+        "image": "https://i.ibb.co/S7Q10wZ/450x600-7.webp",
+        "rating": 4.5
+    },
+    {
+        "id":38,
+        "title": "Вентиля",
+        "description": " пока собирали, обнаружили отстутсвие трубки, ругались на поставщика, открутили трубку от старого вентилятора, благо подошла, на финальном этапе сборки",
+        "price": 19.99,
+        "currency": "USD",
+        "image": "https://i.ibb.co/y00TVLC/450x600-8.webp",
+        "rating": 5
+    },
+    {
+        "id":39,
+        "title": "GAMELAB TETRA",
+        "description": "Компьютерное игровое кресло GAMELAB TETRA - это стильный и функциональный выбор для геймеров. Кресло GAMELAB TETRA отличается своим геймерским",
+        "price": 100.99,
+        "currency": "USD",
+        "image": "https://i.ibb.co/1QvFhHf/450x600-9.webp",
+        "rating": 5
+    },
+    {
+        "id":40,
+        "title": "Фотоаппарат",
+        "description": "тип камеры: зеркальная тип матрицы: CMOS размер матрицы: 18.7 МП, 22.3 х 14.9 мм чувствительность: 100 - 3200 ISO, Auto ISO байонет: Canon EF/EF-S объектив в комплекте: 18-135 IS Читать далее Коротко о товаре",
+        "price": 150.99,
+        "currency": "USD",
+        "image": "https://i.ibb.co/S7Q10wZ/450x600-7.webp",
+        "rating": 4.5
+    },
+    {
+        "id":41,
+        "title": "Игровой стол",
+        "description": "Игровой компьютерный стол Xplace - это высокоустойчивый, практичный и очень комфортный игровой стол с самыми высокими игровыми характеристиками. ",
+        "price": 350.99,
+        "currency": "USD",
+        "image": "https://i.ibb.co/R0hQF3X/450x600-11.webp",
+        "rating": 3
+    },
 
 ]
 
